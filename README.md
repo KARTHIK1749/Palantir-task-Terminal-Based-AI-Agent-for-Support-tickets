@@ -113,8 +113,6 @@ You don't need to do anything to enable it — just use your AI tool normally. Y
 
 ## Submission
 
-Submit via the official Google Form: [https://forms.gle/yofAXWzgif7hnFiX6](https://forms.gle/yofAXWzgif7hnFiX6)
-
 You will upload **four** files:
 
 1. **Code zip** — zip your `code/` directory and upload it. Include `ARCHITECTURE.md` and `README.md`. Exclude virtualenvs, `node_modules`, build artifacts, the `data/` corpus, and the `support_tickets/` CSVs.
