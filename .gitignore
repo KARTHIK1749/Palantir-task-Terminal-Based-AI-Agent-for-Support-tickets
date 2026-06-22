@@ -1,0 +1,93 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# # Environment
+# .env
+
+# # IDE
+# .vscode/
+# .idea/
+# *.swp
+# *.swo
+# *~
+
+# # OS
+# .DS_Store
+# Thumbs.db
+
+# # Build artifacts
+# dist/
+# build/
+# *.egg-info/
+
+# Environment and secrets
+.env
+*.env
+.env.local
+
+## ignore log info
+log.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Vector databases
+*.faiss
+*.index
+chroma_db/
+vector_store/
+
+# Outputs (except the final output.csv)
+support_tickets/output_*.csv
+support_tickets/debug_*.csv
+
+# Large model files
+*.bin
+*.safetensors
+models/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
